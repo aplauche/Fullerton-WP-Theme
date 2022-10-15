@@ -25,7 +25,7 @@ Initial working version.
 
 == Copyright ==
 
-Fullerton WordPress Theme, (C) 2022 WP Engine.
+Fullerton WordPress Theme, (C) 2022.
 Fullerton is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
