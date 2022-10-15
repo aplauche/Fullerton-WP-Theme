@@ -1,0 +1,50 @@
+{
+	"version": 2,
+	"title": "Light Theme",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"name": "Primary",
+					"slug": "primary",
+					"color": "#72A5F2"
+				},
+				{
+					"name": "Secondary",
+					"slug": "secondary",
+					"color": "#BE6ED2"
+				},
+				{
+					"name": "Tertiary",
+					"slug": "tertiary",
+					"color": "#F27291"
+				},
+				{
+					"name": "Background",
+					"slug": "bg",
+					"color": "#E5E6E5"
+				},
+				{
+					"name": "Background Secondary",
+					"slug": "bg-secondary",
+					"color": "#f5f5f5"
+				},
+				{
+					"name": "Main",
+					"slug": "main",
+					"color": "#242425"
+				},
+				{
+					"name": "White",
+					"slug": "white",
+					"color": "#000"
+				},
+				{
+					"name": "Black",
+					"slug": "black",
+					"color": "#fff"
+				}
+			]
+		}
+	}
+}
