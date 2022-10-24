@@ -43,8 +43,8 @@
 <h2 class="has-text-align-center has-primary-color has-text-color has-xxl-font-size">$29.99/m</h2>
 <!-- /wp:heading -->
 
-<!-- wp:table {"className":"is-style-stripes"} -->
-<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td class="has-text-align-center" data-align="center">Feature 1</td></tr><tr><td class="has-text-align-center" data-align="center">Feature 2</td></tr><tr><td class="has-text-align-center" data-align="center">Feature 3</td></tr><tr><td class="has-text-align-center" data-align="center">Feature 4</td></tr></tbody></table></figure>
+<!-- wp:table {"className":"is-style-regular"} -->
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td class="has-text-align-center" data-align="center">Feature 1</td></tr><tr><td class="has-text-align-center" data-align="center">Feature 2</td></tr><tr><td class="has-text-align-center" data-align="center">Feature 3</td></tr><tr><td class="has-text-align-center" data-align="center">Feature 4</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
