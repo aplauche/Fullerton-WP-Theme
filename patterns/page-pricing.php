@@ -118,7 +118,7 @@
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":104,"linkDestination":"none","className":"size-full"} -->
-<figure class="wp-block-image size-full"><img src="http://demo.local/wp-content/themes/fullerton/assets/images/sample-1.png" alt="" class="wp-image-104"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-1.png'?>" alt="" class="wp-image-104"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

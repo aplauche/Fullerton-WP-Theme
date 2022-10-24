@@ -10,7 +10,7 @@
 <div class="wp-block-group alignwide is-style-rounded pattern-hero-default has-bg-secondary-background-color has-background" style="border-radius:32px;margin-top:32px"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":104,"linkDestination":"none","className":"size-full"} -->
-<figure class="wp-block-image size-full"><img src="http://demo.local/wp-content/themes/fullerton/assets/images/sample-1.png" alt="" class="wp-image-104"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-1.png'?>" alt="" class="wp-image-104"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -56,7 +56,7 @@
 <div class="wp-block-group alignwide is-style-rounded has-bg-secondary-background-color has-background" style="border-radius:32px;margin-top:32px;margin-bottom:32px"><!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":104,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://demo.local/wp-content/uploads/2022/10/AD-brainstorm-1.png" alt="" class="wp-image-104"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-1.png'?>" alt="" class="wp-image-104"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
