@@ -29,8 +29,8 @@
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->
@@ -43,8 +43,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->
@@ -59,8 +59,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"margin":{"top":"32px"}}},"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background" style="margin-top:32px"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background" style="margin-top:32px"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->
@@ -73,8 +73,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->

@@ -9,7 +9,7 @@
 <!-- wp:group {"align":"wide","style":{"border":{"radius":"32px"},"spacing":{"margin":{"top":"32px"}}},"backgroundColor":"bg-secondary","className":"is-style-rounded pattern-hero-default"} -->
 <div class="wp-block-group alignwide is-style-rounded pattern-hero-default has-bg-secondary-background-color has-background" style="border-radius:32px;margin-top:32px"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":104,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-1.png'?>" alt="" class=""/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->

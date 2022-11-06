@@ -9,8 +9,8 @@
 <!-- wp:columns {"align":"wide", "className":"pattern-cards-icon-cards"}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->
@@ -25,8 +25,8 @@
 
 <!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->
@@ -41,8 +41,8 @@
 
 <!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->
@@ -57,8 +57,8 @@
 
 <!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"backgroundColor":"bg-secondary","className":"is-style-rounded"} -->
-<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"id":114,"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" class="wp-image-114" width="60" height="60"/></figure>
+<div class="wp-block-group is-style-rounded has-bg-secondary-background-color has-background"><!-- wp:image {"width":60,"height":60,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-icon-1.png'?>" alt="" width="60" height="60"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":5} -->

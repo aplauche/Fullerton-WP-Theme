@@ -9,8 +9,8 @@
 <!-- wp:group {"align":"wide","style":{"border":{"radius":"32px"},"spacing":{"margin":{"top":"32px","bottom":"32px"}}},"backgroundColor":"bg-secondary","className":"is-style-rounded pattern-cta-no-paragraph"} -->
 <div class="wp-block-group alignwide is-style-rounded has-bg-secondary-background-color has-background" style="border-radius:32px;margin-top:32px;margin-bottom:32px"><!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":104,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-1.png'?>" alt="" class="wp-image-104"/></figure>
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="<?php echo get_stylesheet_directory_uri( ) . '/assets/images/sample-1.png'?>" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
