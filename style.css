@@ -19,12 +19,6 @@ Fullerton WordPress Theme, (C) 2022 Anton Plauche | Full Stack Digital
 /* Defaults
 ---------------------------------------------------------------------------- */
 
-html {
-	box-sizing: border-box;
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-font-smoothing: antialiased;
-}
-
 *,
 *::before,
 *::after {
@@ -47,6 +41,7 @@ textarea:focus,
 }
 
 a,
+a:not(.wp-element-button),
 a:focus,
 a:hover {
 	text-decoration: underline;
@@ -76,30 +71,32 @@ blockquote {
 /* SPACING HANDLERS
 ---------------------------------------------------------------------------- */
 
-/* add global spacing to header and content */
+/* add global spacing to header and content  NOT needed unless rootpaddingawarealignment is disabled */
 
-.site-header,
+/* .site-header,
 .post-header,
 .wp-block-post-content {
     padding-left: var(--wp--custom--spacing--baseline);
     padding-right: var(--wp--custom--spacing--baseline);
-}
+} */
 
 /* add space to editor */
 
-.is-root-container {
+/* .is-root-container {
   padding-left: var(--wp--custom--spacing--baseline);
   padding-right: var(--wp--custom--spacing--baseline);
-}
+} */
 
-/* overrule space for fullwidth blocks */
+/* overrule space for fullwidth blocks*/
 
-.wp-block-post-content > .alignfull,
+/* .wp-block-post-content > .alignfull,
 .block-editor-block-list__layout.is-root-container>.wp-block[data-align=full] {
    margin-left: calc(-1 * var(--wp--custom--spacing--baseline)) !important;
    margin-right: calc(-1 * var(--wp--custom--spacing--baseline)) !important;
    width: calc( 100% + var(--wp--custom--spacing--baseline) + var(--wp--custom--spacing--baseline) ) !important;
-}
+} */
+
+/* End spacing overrides */
 
 /* Space out text elements */
 
