@@ -428,6 +428,7 @@ ul li:where(.wp-block-list) {
 .wp-block-table.is-style-stripes th,
 .wp-block-table.is-style-stripes tr {
 	border: 1px solid var(--wp--preset--color--main);
+	
 }
 
 .wp-block-table th {
@@ -439,9 +440,10 @@ ul li:where(.wp-block-list) {
 	padding: 5px;
 }
 
-// Stripes
-.wp-block-table.is-style-stripes tbody tr:nth-child(odd) {
-	background-color: var(--wp--preset--color--bg-secondary) !important;
+
+
+figure.wp-block-table.is-style-stripes tbody tr:nth-child(odd) {
+	background-color: var(--wp--preset--color--bg-secondary);
 }
 
 .wp-block-table.is-style-stripes tbody tr:nth-child(even) {
